@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  coder-swag
 //
-//  Created by Amr Mohamed on 7/22/18.
+//  Created by Mahmoud Mohamed on 7/22/18.
 //  Copyright © 2018 Mahmoud. All rights reserved.
 //
 
